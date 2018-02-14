@@ -2,7 +2,7 @@
 
 ### What is this project about 
 
-Front End component for smart IDs called YOLO Id. 
+Front End component for smart IDs called YOLO Smart Id platform.
 
 ### How to run 
 
