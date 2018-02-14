@@ -2,7 +2,7 @@
 
 ### What is this project about 
 
-Front End compoenet for smart IDs called YOLO Id. 
+Front End component for smart IDs called YOLO Id. 
 
 ### How to run 
 
@@ -12,6 +12,3 @@ $ python -m http.server 9000
 ### Copyright and License
 
 MIT
-
-
-Template courtesy [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)# temp-site
